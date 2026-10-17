@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "61ccf5131eff113ca0cf0f78",
+  "owner": "xw8fcne9",
+  "repo": "page-3f4609a1dbbf5a940eac7094",
+  "title": "蓝猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3f4609a1dbbf5a940eac7094",
+      "a": "蓝猫",
+      "b": "",
+      "entity": "蓝猫",
+      "brand": "蓝猫",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8ae0e3b0a863608c2d3229d049a62c0363a66f282ad4960790cf4434bda20038",
+      "content": {
+        "keyword1": "蓝猫",
+        "keyword2": "",
+        "primary_entity": "蓝猫",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "蓝猫：按清单核对月付与年付价格、流量额度、同时在线设备数和套餐权益名称。基础版、旗舰版、团队版列于本页。客户端下载地址未核验，不提供安装包链接。",
+          "AI_DESCRIPTION": "蓝猫：按清单核对月付与年付价格、流量额度、同时在线设备数和套餐权益名称。基础版、旗舰版、团队版列于本页。客户端下载地址未核验，不提供安装包链接。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml{}\nbody{margin:0;background:#e6e6ee;color:#1a1a24;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;line-height:1.65;font-size:17px}\na{color:#6b10d4;text-decoration:underline;text-underline-offset:3px}\na:hover{color:#4a00a8}\nmain{display:block}\n.poster{min-height:100vh;padding:1rem 1rem 1.4rem;background:#dcdce6;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden}\n.kicker{margin:0;font-size:0.78rem;letter-spacing:0.28em;text-transform:uppercase;color:#6b10d4;font-weight:700}\n.poster h1{margin:0.2rem 0 0;font-weight:900;line-height:0.76;letter-spacing:-0.08em;color:#b100ff;font-size:clamp(4.6rem,38vh,17rem)}\n.poster h1 span{display:block}\n.jumps{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0.4rem 1.1rem;font-size:0.92rem;font-weight:700}\n.jumps a{color:#1a1a24;text-decoration:none;border-bottom:2px solid #b100ff;padding-bottom:0.1rem}\n.wrap{width:min(42rem,calc(100% - 2rem));margin:0 auto;padding:2.6rem 0 0.4rem}\n.lead{margin:0 0 1rem;font-size:0.82rem;letter-spacing:0.18em;color:#6b10d4;font-weight:700}\nh2{margin:0 0 0.8rem;font-size:1.7rem;line-height:1.25;letter-spacing:-0.03em}\nh3{margin:0 0 0.45rem;font-size:1.15rem}\n.plain{margin:0 0 1rem;color:#333344}\n.check{margin:0;padding:0 0 0 1.15rem}\n.check li{margin:0 0 0.45rem}\n.ticket{border:2px dashed #9a2cff;background:#f6f6fb;padding:1.15rem 1.15rem 1.25rem;margin:0 0 1.1rem;position:relative}\n.ticket .stub{display:flex;justify-content:space-between;align-items:baseline;gap:0.75rem;border-bottom:1px dashed #9a2cff;padding-bottom:0.55rem;margin-bottom:0.85rem;font-size:0.78rem;letter-spacing:0.16em;color:#6b10d4;font-weight:700}\n.ticket .name{font-size:1.55rem;letter-spacing:0;color:#1a1a24;font-weight:800;margin:0 0 0.2rem}\n.ticket .price{font-size:2.05rem;line-height:1.1;font-weight:900;color:#8a00e6;margin:0.15rem 0 0.2rem}\n.ticket .year{margin:0 0 0.75rem;color:#4a4a5c;font-size:0.95rem}\n.ticket ul{margin:0;padding:0 0 0 1.1rem}\n.ticket li{margin:0 0 0.35rem}\n.ticket.featured{background:#1b1228;border-color:#d24bff;color:#f3e9ff}\n.ticket.featured .stub{border-bottom-color:#d24bff;color:#e08cff}\n.ticket.featured .name,.ticket.featured .year,.ticket.featured li{color:#f3e9ff}\n.ticket.featured .price{color:#e85cff}\n.badge{display:inline-block;border:1px dashed #e85cff;padding:0.05rem 0.45rem;letter-spacing:0.12em;font-size:0.72rem}\n.steps{margin:0;padding:0;list-style:none;counter-reset:step}\n.steps li{border:2px dashed #9a2cff;background:#f6f6fb;padding:0.9rem 1rem 0.95rem 3.4rem;margin:0 0 0.7rem;position:relative}\n.steps li::before{counter-increment:step;content:counter(step);position:absolute;left:0.7rem;top:0.75rem;font-weight:900;color:#b100ff;font-size:1.25rem}\n.note{border:2px dashed #9a2cff;padding:0.9rem 1rem;background:#f6f6fb;margin:0 0 1rem}\ndetails{border:2px dashed #9a2cff;background:#f6f6fb;padding:0.7rem 0.95rem;margin:0 0 0.65rem}\nsummary{cursor:pointer;font-weight:800;color:#1a1a24}\ndetails p{margin:0.55rem 0 0.15rem;color:#333344}\n.foot{width:min(42rem,calc(100% - 2rem));margin:0 auto;padding:2.2rem 0 2.8rem;font-size:0.9rem;color:#4a4a5c}\n.foot .jumps{margin-top:0.6rem}\n@media(min-width:880px){\n.poster{padding:1.2rem 1.6rem 1.6rem}\n.poster h1{display:flex;flex-direction:row;gap:0;font-size:22.5vw;white-space:nowrap}\n.poster h1 span{display:inline}\n.wrap,.foot{width:min(46rem,calc(100% - 4rem))}\n}\n@media(max-width:420px){\nbody{font-size:16px}\n.ticket .price{font-size:1.7rem}\n.steps li{padding-left:3rem}\n}\n</style><main>\n<header class=\"poster\" id=\"top\">\n<p class=\"kicker\">额度清单 · 计费对照 · 操作顺序</p>\n<h1><span>蓝</span><span>猫</span></h1>\n<ul class=\"jumps\">\n<li><a href=\"#check\">核对项</a></li>\n<li><a href=\"#plans\">套餐券</a></li>\n<li><a href=\"#guide\">使用步骤</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">问答</a></li>\n</ul>\n</header>\n\n<section class=\"wrap\" id=\"check\">\n<p class=\"lead\">先对清单，再看价格</p>\n<h2>本页只用来逐条核对</h2>\n<p class=\"plain\">蓝猫在此页给出三档套餐的面额、流量额度、设备上限和权益名称。没有写入的公司身份、线路数量、测速、评价、日志与退款规则，一律不补写。阅读顺序如下：</p>\n<ul class=\"check\">\n<li>先看月付数字，再看年付是否更省。</li>\n<li>用你的月用量去对流量额度，不要按口号估。</li>\n<li>数清要同时在线的设备，和套餐上限对齐。</li>\n<li>权益只按券面名称理解，不把名称当成实测结果。</li>\n<li>客户端没有可核验下载地址时，不从本页取安装包。</li>\n</ul>\n</section>\n\n<section class=\"wrap\" id=\"plans\">\n<p class=\"lead\">单列大卡 · 一券一档</p>\n<h2>套餐券面</h2>\n<p class=\"plain\">三张券自上而下排列。数字以券面为准；年付按 12 个月计写在价格下方。</p>\n\n<article class=\"ticket\">\n<div class=\"stub\"><span>蓝猫 · 套餐券</span><span>NO.01</span></div>\n<h3 class=\"name\">基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"year\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月流量额度 100GB</li>\n<li>同时在线设备 3 台</li>\n<li>基础流媒体访问项</li>\n<li>普通线路池</li>\n</ul>\n</article>\n\n<article class=\"ticket featured\">\n<div class=\"stub\"><span>蓝猫 · 套餐券</span><span class=\"badge\">推荐</span></div>\n<h3 class=\"name\">旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"year\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月流量额度 300GB</li>\n<li>同时在线设备 5 台</li>\n<li>流媒体解锁项（券面所列）</li>\n<li>游戏线路优化项</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</article>\n\n<article class=\"ticket\">\n<div class=\"stub\"><span>蓝猫 · 套餐券</span><span>NO.03</span></div>\n<h3 class=\"name\">团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"year\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月流量额度 1000GB</li>\n<li>同时在线设备 20 台</li>\n<li>高带宽线路类别</li>\n<li>企业定制路由项</li>\n<li>专属客户经理项</li>\n</ul>\n</article>\n</section>\n\n<section class=\"wrap\" id=\"guide\">\n<p class=\"lead\">五步走完即可</p>\n<h2>使用步骤</h2>\n<ol class=\"steps\">\n<li>打开套餐券，记下月付、年付、流量额度、设备上限四项。</li>\n<li>用自己的用量和设备数做减法：额度不够就升一档，台数不够就不要硬塞进低档。</li>\n<li>选定计费周期。年付面额已写在各券下方，自行乘除核对。</li>\n<li>开通后只使用发放说明里的配置，按说明导入你正在用的工具。</li>\n<li>日常只盯两件事：剩余额度和同时在线台数。本页不提供余量查询入口。</li>\n</ol>\n</section>\n\n<section class=\"wrap\" id=\"clients\">\n<p class=\"lead\">无安装包链接</p>\n<h2>客户端</h2>\n<div class=\"note\">\n<p class=\"plain\">参考清单未提供可核验的客户端下载地址。下列只是操作顺序，链接一律留空，不指向任何安装包。</p>\n<ul class=\"check\">\n<li>配置来源：以开通时收到的说明为准，不从陌生页面取文件。</li>\n<li>导入方式：把配置放进你现有的网络工具；本页不指定软件名称，以免写成未核实的兼容名单。</li>\n<li>设备纪律：同时在线不超过所购档位的台数上限。</li>\n<li>下载地址：无（不伪造）。需要安装包时，回到发放渠道，而不是在此页寻找按钮。</li>\n</ul>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"faq\">\n<p class=\"lead\">常见问题 · 点开查看</p>\n<h2>问答</h2>\n<details>\n<summary>这页能核对什么，不能核对什么？</summary>\n<p>能核对：三档名称、月付、年付、流量额度、设备上限、券面权益名称。不能核对：官方身份、线路规模、速度、评价、日志政策、退款。没写的不要自行补全。</p>\n</details>\n<details>\n<summary>三档分别按什么选？</summary>\n<p>先对设备，再对流量。3 台以内、用量落在 100GB 附近看基础版；5 台、用量向 300GB 靠拢看旗舰版；多人共用、台数或额度明显更高看团队版。不要按档位名称的语气去猜快慢。</p>\n</details>\n<details>\n<summary>年付和月付怎么对照？</summary>\n<p>基础版 15×12=180，年付写的是 150。旗舰版 35×12=420，年付写的是 350。团队版 85×12=1020，年付写的是 850。差价是券面数字，不是额外优惠承诺。</p>\n</details>\n<details>\n<summary>为什么没有客户端下载？</summary>\n<p>没有可核验的地址就不会放链接。把不明安装包写进页面等于伪造下载源。按开通说明导入即可。</p>\n</details>\n<details>\n<summary>流量用完或超出设备上限会怎样？</summary>\n<p>处理规则未提供，本页不编。实际以开通说明为准。使用中只按券面额度与台数自行预留余量。</p>\n</details>\n<details>\n<summary>旗舰版上的“推荐”代表什么？</summary>\n<p>只表示该档在本页被标成推荐券，方便对照。不代表测评结论，也不代表适合所有人。</p>\n</details>\n</section>\n\n<div class=\"foot\">\n<p>蓝猫 · 本页为套餐与步骤清单。回到：</p>\n<ul class=\"jumps\">\n<li><a href=\"#top\">首屏</a></li>\n<li><a href=\"#check\">核对项</a></li>\n<li><a href=\"#plans\">套餐券</a></li>\n<li><a href=\"#guide\">使用步骤</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">问答</a></li>\n</ul>\n</div>\n</main>",
+          "hash": "a872314c5d50603c50a99090bde6823916d09adbfd802b69c96bd6ef90739fc7",
+          "seo": {
+            "title": "蓝猫｜套餐额度、设备上限与使用清单",
+            "keywords": "蓝猫,蓝猫套餐,蓝猫基础版,蓝猫旗舰版,蓝猫团队版,流量额度,设备上限,年付对照",
+            "description": "蓝猫：按清单核对月付与年付价格、流量额度、同时在线设备数和套餐权益名称。基础版、旗舰版、团队版列于本页。客户端下载地址未核验，不提供安装包链接。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6-build",
+          "design": {
+            "no": "3953",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cdspgw.cn",
+    "host": "p-a917d771e3.cdspgw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b64732bf30f01353a48e6fa9deb3020a16f034c64b5e91894f3ff70e682d2b49",
+    "sitemap.xml": "85c487372ee597b249e9799a036e873511f01c226df3f407bfe68d7f82f98a04",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c58d1463590cca7fc2a2e0b0bfbd62cf25fad1712514ee191aba39d5cb88c689",
+    "robots.txt": "4095cdd74ca7cd11ee7deccc690034313c6843b24aacd8666814fab37635e046",
+    "dd655a7505074ea95c33aebd6d33ae9d.txt": "9bc071a75ae70af2e50ada1badb79bbde5702854ce591a6e8b5bf33e9a3903c7"
+  },
+  "revision": "55fe9727d0fe5d469ca6b6f47e73ba28c5cd9d6c4b3dcd241ef08a3d58909548"
+}
